@@ -1,0 +1,6 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Welcome to the Java Programming MOOC by Helsinki University!\n\n");
+        System.out.println("The Assessment Questions are separated by Java I and Java II.\n\n");
+    }
+}
